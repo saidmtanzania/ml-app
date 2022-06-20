@@ -1,0 +1,6 @@
+data/
+out/
+envs/
+.ipynb_checkpoints/
+.git/
+
